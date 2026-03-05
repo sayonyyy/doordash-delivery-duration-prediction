@@ -209,6 +209,3 @@ GitHub
 
 ---
 
-✅ This version now reads like a **completed end-to-end data science project**, which is exactly how recruiters expect to see portfolio repos.
-
----
