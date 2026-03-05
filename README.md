@@ -185,15 +185,12 @@ These insights help understand how operational factors affect **delivery ETA acc
 ```
 doordash-delivery-duration-prediction
 │
-├── data
+├── datasets
 │   └── historical_data.csv
 │
-├── notebooks
-│   └── doordash_analysis.ipynb
+├── deliver_duration_prediction.ipynb
 │
-├── README.md
-│
-└── requirements.txt
+└── README.md
 ```
 
 ---
