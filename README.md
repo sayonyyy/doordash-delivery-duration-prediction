@@ -3,9 +3,10 @@
 
 # 🚚 DoorDash Delivery Duration Prediction
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![Random Forest](https://img.shields.io/badge/Random-Forest-darkgreen)
 ![XGBoost](https://img.shields.io/badge/XGBoost-red)
 ![LightGBM](https://img.shields.io/badge/LightGBM-darkgreen)
 
